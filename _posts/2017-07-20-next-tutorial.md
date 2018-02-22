@@ -1,177 +1,67 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: 反向诱捕
+description: 成功案例
 categories:
  - tutorial
 tags:
 ---
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+关于渗透的流程问题，踩点之类的先放在后面，好不容易遇到个有趣的案例，就分享出来，与君共勉，因为图床问题暂时没有解决，所以先以文字代表一部分。我本来的目标是www.x.com.cn因为部分脱敏的关系，也只能隐藏掉一些。能过google，找了以下信息
 
-<!-- more -->
+> xxxxx@126.com xxxxxxx@126.com xxxx@126.com xx静 上海市xxxxxxxxxxxxxx 021-xxxxxxx 男 30岁左右 
 
-[Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
+说下上面信息大约来源，他网站下面的联系我们，找到几个邮箱。通过whios查询，找到了地址，虽然是拼音，但上海我熟啊，所以没花什么力气就找到了地址，结合百度，得到了真实的的住址，但没找到QQ微信。
 
-## Screenshots
+通过几个邮箱再查，找到个几乎没什么变化的ID,类似老司机的domexx之类的,只有一部分在变化，所以可以确实这几个邮箱没问题，又关联出些其它网站，但大过年不方便测试，准备直接把邮箱拿下来，裤里翻了下其实一个有个弱口令，没什么实质意义，随便试了下都没登进去。所以准备直接把他密码改了，也就是说搞定网易的安全问题，几个邮箱的安全问题都一样，“我的家乡是？”，有机会就准备试下，发现上海的地址不对，看了百度的相关信息，应该不是上海人，而且我就没见过上海人用这种邮箱的安全问题的 = =。 毕竟也是个董事长吧，不能这么傻。从百度给的信息大约分析了下性格果断，有自制力，到时方便聊天。
 
-* Desktop
-![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
+因为没有社交软件的号码，所以准备诱捕，给管理发了邮件
 
-* Sidebar
+>xxxx你好，我是xxxxxxx的市场经理章笑魏，经过初步的市场分析与考察，我们xxxxxxxxx公司有意与贵公司合作，如果可以的话，可以QQ详谈。打扰你的宝贵时间了。
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
+过年不太好等，等了大约一天半，管理就上门来加我，OK，能和对方交谈就行，没有图床，我只能把聊天记录大约写出来
 
-* Sidebar (Post details page)
+>我：你好，我是xxxxxxxx
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-toc.png)
+>王xx：章董你好
 
-* Mobile
+>我：电话沟通也行，我的手机是xxxxxxxxxxx
 
-![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
+>王xx：我们先聊，如果可以，我这边报领导后再具体聊
 
+>.......中间省略一些正常沟通和相互公司介绍
 
-## Installation
+>我：章董倒是个爽快人
 
-Check whether you have `Ruby 2.1.0` or higher installed:
+>我：感觉一点也不像上海人的性格
 
-```sh
-ruby --version
-```
+>王xx：我不是上海本地的，我是湖北的
 
-Install `Bundler`:
+>我：我也是诶，我是宜昌的
 
-```sh
-gem install bundler
-```
+>王xx：真的吗，老乡啊，我龙泉镇的
 
-Clone Jacman theme:
+先到此，很简单拿到了答案，而且也知道了原因，原来是这么个有故事的镇，不过还不要以为就这样了，其实还有很多答案的组合
 
-```sh
-git clone https://github.com/Simpleyyt/jekyll-theme-next.git
-cd jekyll-theme-next
-```
+龙泉镇
+龙泉
+宜昌市龙泉镇
+宜昌龙泉
+宜昌市龙泉
+湖北省宜昌市龙泉镇
+湖北宜昌市龙泉镇
+湖北宜昌龙泉
+.....
 
-Install Jekyll and other dependencies from the GitHub Pages gem:
+这种，我把组合大约都排了出来，因为有每天有找回限制，我只试了一个龙泉发现不对后就没试了，又想会不会管理会不按照常规出牌，问题是家乡，而答案却是数字之类的？结合前面百度的信息来看，此人做事非常严谨，于 是打算继续构造地名。我重新注册了126邮箱，发现已经没这么选项了，悲伤，只能跟据性格把简写的去掉
 
-```sh
-bundle install
-```
+龙泉镇
+宜昌市龙泉镇
+湖北省宜昌市龙泉镇
 
-Run your Jekyll site locally:
+然后试第二就看到了熟悉的画面了，看看了，网站收益不错，一个星期赚了5735.46，检索量951644，点击量16916，点击率1.78%
 
-```sh
-bundle exec jekyll server
-```
+一星期5K，一月2W多的样子，网站还可以。然后就是进去拿了玉米的权限，万网和华夏的账号等等，这些都不是重点，就不细说了。
 
-More Details：[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+> 今天本来开工，但我要12才回去，嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿
 
-
-## Features
-
-### Multiple languages support, including: English / Russian / French / German / Simplified Chinese / Traditional Chinese.
-
-Default language is English.
-
-```yml
-language: en
-# language: zh-Hans
-# language: fr-FR
-# language: zh-hk
-# language: zh-tw
-# language: ru
-# language: de
-```
-
-Set `language` field as following in site `_config.yml` to change to Chinese.
-
-```yml
-language: zh-Hans
-```
-
-### Comment support.
-
-NexT has native support for `DuoShuo` and `Disqus` comment systems.
-
-Add the following snippets to your `_config.yml`:
-
-```yml
-duoshuo:
-  enable: true
-  shortname: your-duoshuo-shortname
-```
-
-OR
-
-```yml
-disqus_shortname: your-disqus-shortname
-```
-
-### Social Media
-
-NexT can automatically add links to your Social Media accounts:
-
-```yml
-social:
-  GitHub: your-github-url
-  Twitter: your-twitter-url
-  Weibo: your-weibo-url
-  DouBan: your-douban-url
-  ZhiHu: your-zhihu-url
-```
-
-### Feed link.
-
-> Show a feed link.
-
-Set `rss` field in theme's `_config.yml`, as the following value:
-
-1. `rss: false` will totally disable feed link.
-2. `rss:  ` use sites' feed link. This is the default option.
-
-    Follow the installation instruction in the plugin's README. After the configuration is done for this plugin, the feed link is ready too.
-
-3. `rss: http://your-feed-url` set specific feed link.
-
-### Up to 5 code highlight themes built-in.
-
-NexT uses [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) with 5 themes for you to choose from.
-Next use `normal` by default. Have a preview about `normal` and `night`:
-
-![Tomorrow Normal Preview](http://iissnan.com/nexus/next/tomorrow-normal.png)
-![Tomorrow Night Preview](http://iissnan.com/nexus/next/tomorrow-night.png)
-
-Head over to [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) for more details.
-
-## Configuration
-
-NexT comes with few configurations.
-
-```yml
-
-# Menu configuration.
-menu:
-  home: /
-  archives: /archives
-
-# Favicon
-favicon: /favicon.ico
-
-# Avatar (put the image into next/source/images/)
-# can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)
-avatar: /default_avatar.png
-
-# Code highlight theme
-# available: normal | night | night eighties | night blue | night bright
-highlight_theme: normal
-
-# Fancybox for image gallery
-fancybox: true
-
-# Specify the date when the site was setup
-since: 2013
-
-```
-
-## Browser support
-
-![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+*From xigua*
